@@ -1,4 +1,4 @@
-# Coded Corpus — AI Labmate Survey
+# Coded Corpus - AI Labmate Survey
 
 Companion artifact to *AI as a Labmate: A Survey of Co-Scientist Systems for
 Closed-Loop Experimental Science* (eScience'26).
@@ -25,7 +25,7 @@ experimental loop:
 | (ii) execution | Is that action carried out by automated hardware under the system's direction? |
 | (iii) feedback | Does the resulting measurement return to the system and condition its next proposal? |
 
-- **G3** — all three clauses hold.
+- **G3** - all three clauses hold.
 - **G2** — a physical experiment is in the loop, but at least one clause passes through a human.
 - **G1** — no physical experiment in the loop; the system executes code or simulation.
 - **G0** — text and knowledge work only.
