@@ -105,7 +105,7 @@ whose human is an `approver`.
 | `safety_mechanisms` | `not-reported`, `substance-screening`, `approval-gate`, `simulation-precheck`, `physical-interlock`. Multiple separated by `;`. |
 | `outside_check` | Whether the reported result has been examined by anyone other than the authoring group: `not-reported`, `corrected` (a formal correction was issued), `disputed` (a published reanalysis challenges a claim), `noted-by-authors` (the authoring group itself disclosed a limitation affecting the claim). |
 
-`outside_check` records verification status, not quality. `none-reported` is the
+`outside_check` records verification status, not quality. `not-reported` is the
 common case and reflects the state of the field rather than a judgment about any
 individual system.
 
