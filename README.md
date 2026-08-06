@@ -101,8 +101,8 @@ whose human is an `approver`.
 
 | Column | Allowed values |
 |---|---|
-| `provenance` | `none`, `free-text-rationale`, `tool-call-logs`, `formal-logs`, `released-traces`. Code the strongest form **actually released**, not merely described. |
-| `safety_mechanisms` | `none-reported`, `substance-screening`, `approval-gate`, `simulation-precheck`, `physical-interlock`. Multiple separated by `;`. |
+| `provenance` | `not-reported`, `free-text-rationale`, `tool-call-logs`, `formal-logs`, `released-traces`. Code the strongest form **actually released**, not merely described. |
+| `safety_mechanisms` | `not-reported`, `substance-screening`, `approval-gate`, `simulation-precheck`, `physical-interlock`. Multiple separated by `;`. |
 | `outside_check` | Whether the reported result has been examined by anyone other than the authoring group: `none-reported`, `corrected` (a formal correction was issued), `disputed` (a published reanalysis challenges a claim), `noted-by-authors` (the authoring group itself disclosed a limitation affecting the claim). |
 
 `outside_check` records verification status, not quality. `none-reported` is the
