@@ -48,6 +48,7 @@ and does not raise `grounding`.
 | `system_id` | Stable key (`S01`–`S15`). Referenced in the paper and in issue discussions. |
 | `system_name` | Name as used by the system's own authors. |
 | `bibkey` | BibTeX key of the primary reference coded. Where a system spans several papers, the others are noted in `coder_notes`. |
+| `link` | Website link of the paper. |
 | `year` | Year of the primary reference. |
 | `domain` | Scientific domain: `Chemistry`, `Chemistry/Mat.`, `Materials`, `Materials char.`, `Biology`, `Biomedicine`, `Computational`. |
 
