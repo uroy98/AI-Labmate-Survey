@@ -22,7 +22,7 @@ experimental loop:
 | Clause | Question |
 |---|---|
 | (i) selection | Does the system choose the next physical experiment without per-experiment human approval? |
-| (ii) execution | Is that action carried out by automated hardware under the system's direction? |
+| (ii) execution | Is the experiment carried out by automated hardware under the system's direction or a human? |
 | (iii) feedback | Does the resulting measurement return to the system and condition its next proposal? |
 
 - **G3** - all three clauses hold.
