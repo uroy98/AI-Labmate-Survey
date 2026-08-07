@@ -119,18 +119,6 @@ individual system.
 
 ---
 
-## The `VERIFY` convention
-
-A cell reading `VERIFY` means the code has not yet been confirmed against the
-source. Some carry a specific question, e.g. `VERIFY: offline prediction or live
-SEM?`.
-
-These are working placeholders. **No cell should read `VERIFY` in a released
-version** — replace each with a code and its supporting evidence, or with
-`not-reported` where the published record genuinely does not say.
-
----
-
 ## Scope
 
 This corpus is a purposive sample, not a census. Systems were selected to span the
