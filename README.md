@@ -3,7 +3,7 @@
 Companion artifact to *AI as a Labmate: A Survey of Co-Scientist Systems for
 Closed-Loop Experimental Science* (eScience'26).
 
-`coded_corpus_v2.csv` contains one row per labmate system examined for the survey,
+`coded_corpus.csv` contains one row per labmate system examined for the survey,
 coded against the taxonomy and the experimental-grounding scale defined in the
 paper. Ten of these systems appear in Table III; the remainder were coded but not
 tabulated, for space.
